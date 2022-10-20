@@ -1,7 +1,7 @@
+
+![power station](images/electricity-pylon-3916954_960_720.jpg)
 # Electricity Shortfall Regression Predict
 Predicting the expected electricity shortfall in Spain using features, that impact electricity supply and demand.
-
-![power station] (images/electricity-pylon-3916954_960_720.jpg)
 
 # Background
 The supply of electricity plays a large role in the livelihood of citizens in a country. Electricity, amongst other things, helps us stay connected, keep warm, and feed our families. Therefore there's a need to keep the lights on in order to maintain and improve the standard of living by investing in electricity infrastructure. However, in recent years, there has been evidence that the use of purely non-renewable sources is not sustainable.
